@@ -2,6 +2,7 @@
 
   - 🌱 Atualmente estudo Pentest na Solyd Offensive Security, com o objetivo de me profissionalizar na area de cyber segurança
 - 😄 Pronouns: Ele/Dele
+- 🧑‍🎓 Estudante de Bacharelado em Engenharia de Softare pela Universidade Técnica Federal do Paraná 
 
 <div>
   <a href="https://github.com/SonyBlackk">
