@@ -1,6 +1,6 @@
-### OLa! Eu sou Luiz Jelonschek
+### OLa! Eu sou Luiz Eduardo Jelonschek
 
-- 🌱 Eu estou atualmente estudando front-end
+  - 🌱 Atualmente estudo Pentest na Solyd Offensive Security, com o objetivo de me profissionalizar na area de cyber segurança
 - 😄 Pronouns: Ele/Dele
 
 <div>
