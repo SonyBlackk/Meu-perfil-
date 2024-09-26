@@ -1,7 +1,6 @@
 ### OLa! Eu sou Luiz Eduardo Jelonschek
 
-  - 🌱 Atualmente estudo Pentest na Solyd Offensive Security, com o objetivo de me profissionalizar na area de cyber segurança
-- 😄 Pronouns: Ele/Dele
+  - 🌱 Atualmente estudo Pentest na Solyd Offensive Security, com o objetivo de me profissionalizar na area de cyber segurança.
 - 🧑‍🎓 Estudante de Bacharelado em Engenharia de Software pela Universidade Técnica Federal do Paraná 
 
 <div>
